@@ -1,7 +1,7 @@
 <img  alt="banner" src="./image/banner.png" />
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mai </h1>
 <h3 align="center">
- Back-end developer is my dream🚀,  I enjoy coding.
+A girl with 100% power to become Back-end developer 🚀,  I enjoy coding.
   <br />
   <br />
   
@@ -12,9 +12,9 @@
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Java, Flutter and Spring boot; 
+- 🌱 I’m currently learning Java, C#, Golang; 
 - 💬 Ask me about anything, I am happy to help;
-- 🏁 I also love to listen music and play sports...
+- 🏁 I also love to listen music and reading resources to explore new thing...
 
 ### 🚀 Connect with me:
 
@@ -22,10 +22,10 @@
   <a href="https://www.linkedin.com/in/bemeineee/" target="_blank">
     <img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
-  <a href="https://www.instagram.com/huulong__________/" target="_blank">
+  <a href="https://www.instagram.com/_nhmai77_/" target="_blank">
     <img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
   </a>
-  <a href="https://www.linkedin.com/in/bemeineee/" target="_blank">
+  <a href="https://www.facebook.com/mainh3SE/" target="_blank">
     <img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
   </a>
 </p>
@@ -37,11 +37,8 @@
 ### Languages and Tools:
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
